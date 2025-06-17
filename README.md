@@ -13,37 +13,52 @@ PhonePe is one of India's most popular digital payment platforms. This dashboard
 - 📍 Explore district-wise and pincode-level insights
 
 ---
+## Business Cases Study:
+
+- Decoding Transaction Dynamics on PhonePe
+
+- User Engagement and Growth Strategy
+
+- Transaction Analysis Across States and Districts
+
+- User Registration Analysis
+
+- Insurance Transactions Analysis
+
+---
 ## Business Use Cases:
 
-Customer Segmentation: 
-- Identify distinct user groups based on spending habits to tailor marketing strategies.
+- Customer Segmentation
 
-Fraud Detection:
-- Analyze transaction patterns to spot and prevent fraudulent activities.
+- Fraud Detection
 
-Geographical Insights: 
-- Understand payment trends at state and district levels for targeted marketing.
+- Geographical Insights
 
-Payment Performance: 
-- Evaluate the popularity of different payment categories for strategic investments.
+- Payment Performance
 
-User Engagement:
-- Monitor user activity to develop strategies that enhance retention and satisfaction.
+- User Engagement
 
-Product Development: 
-- Use data insights to inform the creation of new features and services.
+- Product Development
 
-Insurance Insights: 
-- Analyze insurance transaction data to improve product offerings and customer experience.
+- Insurance Insights
 
-Marketing Optimization: 
-- Tailor marketing campaigns based on user behavior and transaction patterns.
+- Marketing Optimization
 
-Trend Analysis: 
-- Examine transaction trends over time to anticipate demand fluctuations.
+- Trend Analysis
 
-Competitive Benchmarking: 
-- Compare performance against competitors to identify areas for improvement.
+- Competitive Benchmarking
+
+---
+
+## 📦 Features
+-  Loading transaction data from the PhonePe dataset
+-  MySQL database setup and data storage
+-  Querying and analyzing transaction data
+-  Real-time visualizations using Plotly and GeoJSON maps
+-  Year and Quarter filters for dynamic exploration
+-  Business Case Studies across 6 dimensions:
+-  Power BI Dashboard Report (`/PowerBI` folder)
+-  Interactive visualization using Streamlit 
 
 ---
 
@@ -57,3 +72,9 @@ Competitive Benchmarking:
 | Plotly          | Visualizations and Charts      |
 | Power BI        | Professional Report Insights   |
 | GitHub          | Version Control & Deployment   |
+
+## Running the Streamlit App
+
+To launch the Streamlit dashboard:
+
+streamlit run Streamlitapp.py
