@@ -75,7 +75,7 @@ PhonePe is one of India's most popular digital payment platforms. This dashboard
 
 ## Running the Streamlit App
 
-3. Run the Streamlit App:
+Run the Streamlit App:
 ```sh
 streamlit run streamlitapp.py
 ```
