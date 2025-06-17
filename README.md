@@ -16,34 +16,35 @@ PhonePe is one of India's most popular digital payment platforms. This dashboard
 ## Business Use Cases:
 
 Customer Segmentation: 
-Identify distinct user groups based on spending habits to tailor marketing strategies.
+- Identify distinct user groups based on spending habits to tailor marketing strategies.
 
 Fraud Detection:
-Analyze transaction patterns to spot and prevent fraudulent activities.
+- Analyze transaction patterns to spot and prevent fraudulent activities.
 
 Geographical Insights: 
-Understand payment trends at state and district levels for targeted marketing.
+- Understand payment trends at state and district levels for targeted marketing.
 
 Payment Performance: 
-Evaluate the popularity of different payment categories for strategic investments.
+- Evaluate the popularity of different payment categories for strategic investments.
 
 User Engagement:
-Monitor user activity to develop strategies that enhance retention and satisfaction.
+- Monitor user activity to develop strategies that enhance retention and satisfaction.
 
 Product Development: 
-Use data insights to inform the creation of new features and services.
+- Use data insights to inform the creation of new features and services.
 
 Insurance Insights: 
-Analyze insurance transaction data to improve product offerings and customer experience.
+- Analyze insurance transaction data to improve product offerings and customer experience.
 
 Marketing Optimization: 
-Tailor marketing campaigns based on user behavior and transaction patterns.
+- Tailor marketing campaigns based on user behavior and transaction patterns.
 
 Trend Analysis: 
-Examine transaction trends over time to anticipate demand fluctuations.
+- Examine transaction trends over time to anticipate demand fluctuations.
 
 Competitive Benchmarking: 
-Compare performance against competitors to identify areas for improvement.
+- Compare performance against competitors to identify areas for improvement.
+
 ---
 
 ## 🛠 Technologies Used
