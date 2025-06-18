@@ -63,6 +63,12 @@ PhonePe is one of India's most popular digital payment platforms. This dashboard
 
 ---
 
+## 📂Dataset
+- **Source**: PhonePe Pulse Data
+- **GitHub Repository**: [https://github.com/PhonePe/pulse](https://github.com/PhonePe/pulse)
+
+---
+
 ## 🛠 Technologies Used
 
 | Tool            | Purpose                        |
